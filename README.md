@@ -14,7 +14,7 @@ Démarrer le projet
     $ npm i
 
 -------------------
-#### <i class="icon-cog"></i>Exécution
+#### <i class="icon-cog"></i>Exécuter
 
     $ npm start
 
