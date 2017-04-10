@@ -32,6 +32,7 @@ class Select extends Component {
       const select = document.getElementById("select");
       let choice = select.selectedIndex;
       this.setState({query : choice});
+      this.hideResult();
     }
 
 
